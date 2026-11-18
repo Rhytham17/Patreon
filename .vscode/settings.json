@@ -1,0 +1,7 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "d:/Ridham/web development/Nextjs/Project_patreon-131/getmechai/.vscode/excel-pq-symbols",
+        "d:/Ridham/web development/Nextjs/Project_patreon-131/Funding/.vscode/excel-pq-symbols",
+        "d:/Ridham/web development/Project_patreon/Funding/.vscode/excel-pq-symbols"
+    ]
+}
